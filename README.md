@@ -1,5 +1,12 @@
 # globalindiefreeform
 Web-Radio
 
-https://www.globalindiefreeform.com/
+```
+Website for GlobalIndieFreeform Radio
+
 https://freeformwizard.globalindiefreeform.com/
+
+Web Interface Player
+
+https://www.globalindiefreeform.com/
+```
