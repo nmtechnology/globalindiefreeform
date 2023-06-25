@@ -2,7 +2,7 @@
 Web-Radio
 
 
-Website for GlobalIndieFreeform Radio
+Website for GlobalIndieFreeform Radio (DONATE TODAY)
 ```
 https://freeformwizard.globalindiefreeform.com/
 ```
